@@ -1,0 +1,45 @@
+#Nome{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#Descrição{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+body{
+    background-color: rgb(207, 201, 201);
+    padding: 3%;
+}
+strong{
+    font-style: italic;
+}
+.Unix{
+    font-size: 30px;
+}
+.Html{
+    font-size: 60px;
+}
+.CSS{
+    font-size: 40px;
+}
+.Organização{
+    font-size: 20px;
+}
+.Empatia{
+    font-size: 50px;
+}
+#Foto{
+    float: left;
+    height: 360px;
+    padding: 20px;
+    background-color: rgb(159, 155, 175);
+}
+.image-container{
+    height: 400px;
+    position: relative;
+}
+ul li:nth-child(odd){
+    background-color: rgb(145, 157, 179);
+}
